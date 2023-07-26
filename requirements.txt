@@ -1,0 +1,9 @@
+glob2
+tensorflow
+pandas
+tqdm
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+insightface
